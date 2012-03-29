@@ -1,0 +1,51 @@
+body {
+	margin: 0 auto;
+	width: 75%;
+	font-family: "helvetica neue", helveltica, arial, sans-serif;
+	color: #333;
+	background: url('../images/geometric-dark.png') fixed;
+}
+
+body h1, h2 {
+	font-weight: 200;
+}
+
+body h1 {
+	margin: 0;
+	height: 120px;
+	text-align: center;
+	text-shadow: #333 1px 1px;
+	font-size: 2.5em;
+	color: #eee;
+	line-height: 120px;
+}
+
+body h2 {
+	margin-bottom: 0;
+	font-size: 1.75em;
+}
+
+#pagehead {
+	background: url('../images/geometric-dark.png') fixed;
+}
+
+#inner {
+	margin-bottom: 20px;
+	padding: 60px 10%;
+	background: url('../images/groovepaper.png');
+}
+
+#inner p {
+	margin-bottom: 30px;
+	line-height: 1.5em;
+	font-weight: 300;
+	text-shadow: #fff 1px 1px;
+}
+
+#footer {
+	margin-bottom: 30px;
+	text-align: center;
+	font-size: .7em;
+	font-weight: 200;
+	color: #fff;
+{
